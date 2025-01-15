@@ -36,7 +36,7 @@
     font-family: 'Mikado Medium';
     font-style: normal;
     font-weight: normal;
-    src: local('Mikado Medium'), url('HVD Fonts  MikadoMedium.woff') format('woff');
+    src: local('Mikado Medium'), url('mikadomedium.woff') format('woff');
     }
     
 
@@ -52,7 +52,7 @@
     font-family: 'Mikado Bold';
     font-style: normal;
     font-weight: normal;
-    src: local('Mikado Bold'), url('HVD Fonts  MikadoBold.woff') format('woff');
+    src: local('Mikado Bold'), url('mikadobold.woff') format('woff');
     }
     
 
